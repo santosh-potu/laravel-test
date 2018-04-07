@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    London App-{{$version}}
                 </div>
 
                 <div class="links">

@@ -177,6 +177,7 @@ return [
         SantoshLaravel\Providers\EventServiceProvider::class,
         SantoshLaravel\Providers\RouteServiceProvider::class,
 
+        SantoshLaravel\Providers\DummyProvider::class,
     ],
 
     /*

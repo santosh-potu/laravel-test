@@ -28,6 +28,7 @@
     24 => 'SantoshLaravel\\Providers\\AuthServiceProvider',
     25 => 'SantoshLaravel\\Providers\\EventServiceProvider',
     26 => 'SantoshLaravel\\Providers\\RouteServiceProvider',
+    27 => 'SantoshLaravel\\Providers\\DummyProvider',
   ),
   'eager' => 
   array (
@@ -45,6 +46,7 @@
     11 => 'SantoshLaravel\\Providers\\AuthServiceProvider',
     12 => 'SantoshLaravel\\Providers\\EventServiceProvider',
     13 => 'SantoshLaravel\\Providers\\RouteServiceProvider',
+    14 => 'SantoshLaravel\\Providers\\DummyProvider',
   ),
   'deferred' => 
   array (

@@ -79,7 +79,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    London App-<?php echo e($version); ?>
+
                 </div>
 
                 <div class="links">
