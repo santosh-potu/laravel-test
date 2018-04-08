@@ -79,8 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    London App-<?php echo e($version); ?>
-
+                    London App <?php echo e(isset($version)? ' - '.$version:''); ?>  
                 </div>
 
                 <div class="links">

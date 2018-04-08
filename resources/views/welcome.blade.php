@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    London App-{{$version}}
+                    London App {{isset($version)? ' - '.$version:''}}  
                 </div>
 
                 <div class="links">
